@@ -1,3 +1,5 @@
+  > related repo [Programming-Records](https://github.com/b1tranger/Programming-Records/)
+
 # CSE0613124-WAD-Lab
 [ repository created on 30.05.25 ]
 
